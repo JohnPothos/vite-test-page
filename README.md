@@ -7,4 +7,4 @@
 ## Since GitHub(free plan) allows Actions only to public projects to keep source code “in privacy” we can
 
 1. Employ the help of platforms like Netlify where after it is granted access to private repositories can build/deploy the source code , and also provide progress tracking Apis
-2. Use the Two Repository Method where Source Code remains in a Private and the locally builded code in a Public one. Process Automation is achievend with postbuild scripts that handle “specific” file movements and backups.
+2. Use the Two Repository Method where Source Code remains in a Private and the locally builded code in a Public one. Process Automation is achieved with postbuild scripts that handle “specific” file movements and backups.
